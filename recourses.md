@@ -9,7 +9,7 @@ http://neuralnetworksanddeeplearning.com/*
 Highly recommend his articles on LSTMs and NLP. Link: http://colah.github.io/*
 
 #### Andrej Karpathi's blog
->*This guy is just great. His blog posts cover a wide range going from convolutional networks to reinforcement learning.
+> *This guy is just great. His blog posts cover a wide range going from convolutional networks to reinforcement learning.
 Link: http://karpathy.github.io/
 
 #### CS231 Stanford Course for Convolutional Networks
@@ -18,18 +18,18 @@ Link: http://cs231n.stanford.edu/*
 
 #### "Deep Learning" book by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 > *Currently going through this. The book goes a lot in-depth, very thorough and comprehensive. Would highly recommend it so far!
-Although, I definitely think you should start with the resources mentioned above first. 
+Although, I definitely think you should start with the resources mentioned above. Also suggest using other resources along the linear algebra (ch.2) and probability theory (ch.3) chapters.
 This book is targetted more to people that intend to have a career in the field. Link: http://www.deeplearningbook.org/*
 
 #### "Machine Learning for Artists" (ml4a) by Gene Kogan
->*This is a new initiative, but it's looking promising. Don't be misled by the title - 
+> *This is a new initiative, but it's looking promising. Don't be misled by the title - 
 even though the book might be targetted to the creative AI space, 
 the chapters are highly comprehensive. 
 The book discusses a wide range of recent advances in AI and a variety of architectures. Link: http://ml4a.github.io/index/*
 
 #### For the serious ones, here are some links to some great books to brush up on your basics:
-> "Linear Algebra Done Right" by Axler     
-"Baysian methods for hackers" by Cam Davidson-Pilon
+> *"Linear Algebra Done Right" by Axler     
+"Baysian methods for hackers" by Cam Davidson-Pilon*
 
 
 ### Some visualizations that you might find interesting:
