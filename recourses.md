@@ -27,6 +27,11 @@ even though the book might be targetted to the creative AI space,
 the chapters are highly comprehensive. 
 The book discusses a wide range of recent advances in AI and a variety of architectures. Link: http://ml4a.github.io/index/*
 
+#### For the serious ones, here are some links to some great books to brush up on your basics:
+> "Linear Algebra Done Right" by Axler     
+"Baysian methods for hackers" by Cam Davidson-Pilon
+
+
 ### Some visualizations that you might find interesting:
 http://playground.tensorflow.org
 
